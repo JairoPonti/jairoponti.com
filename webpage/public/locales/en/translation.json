@@ -4,21 +4,21 @@
         "skills": "Skills",
         "trainings": "Trainings",
         "contact": "Contact",
-        "name": "Germán Bonacchi",
+        "name": "Jairo M. Ponti",
         "rights": "All rights reserved."
     },
     "Hero": {
         "heading": "Hi, I'm",
-        "name": "Germán Bonacchi",
-        "subheading": "Commerce Frontend Developer Senior at Valtech"
+        "name": "Jairo M. Ponti",
+        "subheading": "Commerce Frontend Developer at Valtech"
     },
     "About": {
         "topLine": "About Me",
-        "description": "I design and build high-quality, functional and user-oriented web solutions, by applying concepts of accessibility, responsiveness and aesthetic design.",
-        "heading1": "My name is Germán and I am a ",
-        "heading2": "Frontend Developer Senior",
+        "description": "I design and build high quality, functional and user-oriented web solutions, applying concepts of accessibility, responsiveness and aesthetic design.",
+        "heading1": "My name is Jairo and I am a ",
+        "heading2": "Frontend Developer",
         "heading3": " of ",
-        "heading4": "Commerce Technology",
+        "heading4": "Commerce",
         "heading5": " at ",
         "heading6": "valtech",
         "heading7": "-"
@@ -31,23 +31,17 @@
         "description4": "At the same time, my curiosity and desire to be updated, keep me acquiring knowledge through Udemy, Google and Youtube and practicing on my own projects."
     },
     "Trainings": {
-        "topLine": "Trainings",
-        "heading": "Here you can view the trainings I did...and the ones I will continue to do.",
-        "description": "Giving training is one of the things I enjoy the most and where I can internalize knowledge by helping others to be better in the process."
+        "topLine": "Proyects",
+        "heading": "Here you can see some of the projects that I made.",
+        "description": "It is very necessary for me to have a time where I can continue to constantly acquire skills."
     },
     "VideoSlider": {
-        "title0": "Apps Life Cycle",
-        "subtitle0": "from the idea to the App Store",
-        "title1": "Tech Training LATAM",
-        "subtitle1": "Block 1 - Session 1",
-        "title2": "Tech Training LATAM",
-        "subtitle2": "Block 1 - Session 2",
-        "title3": "Tech Training LATAM",
-        "subtitle3": "Block 2 - Session 1",
-        "title4": "Tech Training LATAM",
-        "subtitle4": "Block 2 - Session 2",
-        "title5": "Tech Training LATAM",
-        "subtitle5": "Block 2 - Session 3"
+        "title0": "Mobile App virtual wallet",
+        "subtitle0": "MOBA / React Native",
+        "title1": "Mern Tasks",
+        "subtitle1": "Project and Task Manager (Stack MERN)",
+        "title2": "Meli",
+        "subtitle2": "litle e-commerce"
     },
     "Contact": {
         "nameError": "Name is required",

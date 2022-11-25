@@ -9,7 +9,7 @@
     },
     "Hero": {
         "heading": "Hola, soy",
-        "name": "Jairo Ponti",
+        "name": "Jairo M. Ponti",
         "subheading": "Desarrollador Frontend de Commerce en Valtech"
     },
     "About": {
@@ -29,6 +29,19 @@
         "description2": "Entre las marcas para las que me encontré desarrollando y brindando soluciones se encuentran: Cuesta blanca (Arg y Chile), Portsaid, Equus, BGH, La Espumería (Arg y Uruguay), Icb (Chile) y Bremen entre otros.",
         "description3": "Actualmente en VALTECH me encuentro afrontando un gran desafío, trabajando en el desarrollo de la página de la reconocida marca BeautyCounter de USA.",
         "description4": "A su vez, mi curiosidad y ganas de estar ayornado, me mantienen adquiriendo conocimientos a través de Udemy, y practicando en mis propios proyectos."
+    },
+    "Trainings": {
+        "topLine": "Proyectos",
+        "heading": "Aquí puedes ver algunos de los proyectos que realicé",
+        "description": "Es muy necesario para mí contar con un tiempo en el que pueda continuar adquiriendo habilidades constantemente."
+    },
+    "VideoSlider": {
+        "title0": "Mobile App billetera virtual",
+        "subtitle0": "MOBA / React Native",
+        "title1": "Mern Tasks",
+        "subtitle1": "Administrador de Proyectos y tareas (Stack MERN)",
+        "title2": "Meli",
+        "subtitle2": "Mini e-commerce"
     },
     "Contact": {
         "nameError": "Nombre es requerido",

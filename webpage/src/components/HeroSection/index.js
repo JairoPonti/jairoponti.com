@@ -9,7 +9,7 @@ import {
   Img,
 } from "./HeroElements";
 import ParticlesBackground from "../Particles/ParticleBackground";
-import profile from "../../images/profile.jpg";
+import profile from "../../images/profile-jairo.png";
 import { useTranslation } from "react-i18next";
 
 const HeroSection = () => {

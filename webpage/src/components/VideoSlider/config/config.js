@@ -1,9 +1,3 @@
-// import video0img from '../../../images/video0img.jpg'
-// import video1img from '../../../images/video1img.jpg'
-// import video2img from '../../../images/video2img.jpg'
-// import video3img from '../../../images/video3img.jpg'
-// import video4img from '../../../images/video4img.jpg'
-// import video5img from '../../../images/video5img.jpg'
 import { useTranslation } from 'react-i18next'
 
 const Config = () => {
@@ -27,7 +21,7 @@ const Config = () => {
    id: 0,
    title: translations.title0,
    subtitle: translations.subtitle0,
-   videoLink: 'https://www.youtube.com/watch?v=WjRuhuWnqeo'
+   videoLink: 'https://youtu.be/fs4kmvSOWmg'
 //    img: video0img,
   },
   {
