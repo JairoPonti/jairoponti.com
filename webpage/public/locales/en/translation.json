@@ -1,0 +1,71 @@
+{
+    "Section": {
+        "about": "About me",
+        "skills": "Skills",
+        "trainings": "Trainings",
+        "contact": "Contact",
+        "name": "Germán Bonacchi",
+        "rights": "All rights reserved."
+    },
+    "Hero": {
+        "heading": "Hi, I'm",
+        "name": "Germán Bonacchi",
+        "subheading": "Commerce Frontend Developer Senior at Valtech"
+    },
+    "About": {
+        "topLine": "About Me",
+        "description": "I design and build high-quality, functional and user-oriented web solutions, by applying concepts of accessibility, responsiveness and aesthetic design.",
+        "heading1": "My name is Germán and I am a ",
+        "heading2": "Frontend Developer Senior",
+        "heading3": " of ",
+        "heading4": "Commerce Technology",
+        "heading5": " at ",
+        "heading6": "valtech",
+        "heading7": "-"
+    },
+    "Skills": {
+        "topLine": "My Skills",
+        "description": "Since I started developing, 2 years ago, I have worked and learned several technologies and have gone through different work methodologies.",
+        "description2": "Among the brands for which I developed and provided solutions are: Cuesta blanca (Arg and Chile), Portsaid, Equus, BGH, La Espumería (Arg and Uruguay), Icb (Chile) and Bremen among others.",
+        "description3": "Currently at VALTECH I am facing a great challenge, working on the development of the website of the well known brand BeautyCounter from USA.",
+        "description4": "At the same time, my curiosity and desire to be updated, keep me acquiring knowledge through Udemy, Google and Youtube and practicing on my own projects."
+    },
+    "Trainings": {
+        "topLine": "Trainings",
+        "heading": "Here you can view the trainings I did...and the ones I will continue to do.",
+        "description": "Giving training is one of the things I enjoy the most and where I can internalize knowledge by helping others to be better in the process."
+    },
+    "VideoSlider": {
+        "title0": "Apps Life Cycle",
+        "subtitle0": "from the idea to the App Store",
+        "title1": "Tech Training LATAM",
+        "subtitle1": "Block 1 - Session 1",
+        "title2": "Tech Training LATAM",
+        "subtitle2": "Block 1 - Session 2",
+        "title3": "Tech Training LATAM",
+        "subtitle3": "Block 2 - Session 1",
+        "title4": "Tech Training LATAM",
+        "subtitle4": "Block 2 - Session 2",
+        "title5": "Tech Training LATAM",
+        "subtitle5": "Block 2 - Session 3"
+    },
+    "Contact": {
+        "nameError": "Name is required",
+        "emailError": "Email is required",
+        "emailNotValid": "Email is not valid",
+        "messageError": "Message is required",
+        "wait": "Please wait...",
+        "success": "Success! 😊",
+        "error": "Error, try again later 🙁",
+        "statusSend": "Send",
+        "statusSending": "Sending...",
+        "name": "Your name",
+        "placeholderName": "name",
+        "email": "Your email",
+        "placeholderEmail": "email",
+        "message": "Your message",
+        "placeholderMessage": "message",
+        "heading": "Contact",
+        "subheading": "Get in touch"
+    }
+}
